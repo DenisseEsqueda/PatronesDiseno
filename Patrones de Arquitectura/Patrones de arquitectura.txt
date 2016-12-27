@@ -1,0 +1,9 @@
+﻿Patrones de Arquitectura
+
+- Capas
+- Tubos y filtros
+- Pizarra
+- Broker (Mediator)
+- MVC
+- Presentacion - abstraccion - control
+- Microkernel
